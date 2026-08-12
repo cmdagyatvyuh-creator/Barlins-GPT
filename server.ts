@@ -168,7 +168,7 @@ app.post("/api/chat", async (req, res) => {
   const startTime = Date.now();
   const {
     message,
-    model = "gemini-3.6-flash",
+    model: "gryphe/mythomax-l2-13b:free",
     colabUrl,
     systemInstruction = "You are BARLIN'S GPT, a private AI command center assistant sponsored by the AGYAT VYUH COMMUNITY. Respond with tactical, precise, high-intelligence sci-fi tech precision.",
     temperature = 0.7,
