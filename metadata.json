@@ -1,0 +1,6 @@
+{
+  "name": "BARLIN'S GPT - Private AI Command Center",
+  "description": "Private AI Command Center sponsored by Agyat Vyuh Community featuring tactical HUD glassmorphism interface, Google Colab API integration, code execution, and real-time telemetry.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
